@@ -1,0 +1,4 @@
+{
+    "url_post": "https://jsonplaceholder.typicode.com/posts",
+    "log_file": "out.log"    
+}
